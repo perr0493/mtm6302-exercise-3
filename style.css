@@ -1,0 +1,31 @@
+/* Mobile */
+
+html, body {
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	height: 100%;
+	font-family: 'Inter', sans-serif;
+  }
+
+.hide{
+	display: none;
+}
+
+.show{
+	display: block;
+}
+
+
+
+
+
+
+/* Tablet */
+
+
+
+
+
+/* Desktop */
+
